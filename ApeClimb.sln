@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApeClimb", "ApeClimb\ApeClimb.csproj", "{A2C62951-5F6B-4628-A8BD-F81B064F10FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.Release|iPhone.Build.0 = Release|iPhone
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A2C62951-5F6B-4628-A8BD-F81B064F10FE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ApeClimb\ApeClimb.csproj
+	EndGlobalSection
+EndGlobal
